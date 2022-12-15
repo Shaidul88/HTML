@@ -1,0 +1,13 @@
+
+<style>
+h1 {
+color: red;
+}
+</style>
+
+<h1>Fluffy Fluffington ( this the writing utility)</h1>
+// how to use an image
+<img src="https://placekitten.com/300/250" alt="kitten staring at camera">
+
+buttons
+<button>Post</button>

@@ -1,0 +1,8 @@
+index.html
+<!doctype html>
+<html>
+ <body>
+  <a href="https://getmimo.com">Best place to learn to code</a>
+</body>
+</html>
+
